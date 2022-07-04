@@ -1,0 +1,8 @@
+1º) a) O salário de um funcionário = float sal;
+b) A quantidade de funcionários = int workers;
+c) O preço do litro do leite = float pc_Leite;
+d) O sexo de uma pessoa, sendo f para feminino e m para masculino = char masc, fem;
+e) A quantidade de alunos = int alunos;
+f) A resposta de uma questão de multipla escolha com alternativas: a, b, c, d, e. = char answer;
+g) O saldo bancário = float saldo_banc;;
+h) As raizes de uma equação do 2º grau = float raiz; 
